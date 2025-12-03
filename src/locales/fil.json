@@ -1,0 +1,99 @@
+{
+  "header": {
+    "logo": "Albuhaira Alarabia",
+    "home": "Home",
+    "services": "Mga Serbisyo",
+    "app": "App",
+    "contact": "Kontak",
+    "orderNow": "Mag-order Ngayon"
+  },
+  "hero": {
+    "title": "Ang iyong gasolina ay maihahatid",
+    "titleHighlight": "saan ka man naroroon",
+    "description": "Mag-order ng gasolina para sa iyong sasakyan, bahay, o negosyo sa isang click. Ang aming ekspertong koponan ay naghahatid ng gasolina nang mabilis at ligtas sa anumang lokasyon.",
+    "orderFuel": "Mag-order ng Gasolina Ngayon",
+    "ourServices": "Ang Aming Mga Serbisyo"
+  },
+  "services": {
+    "title": "Ang Aming Kumpletong Mga Serbisyo",
+    "subtitle": "Nagbibigay kami ng kumpletong hanay ng mga serbisyo sa gasolina upang matugunan ang lahat ng iyong pangangailangan",
+    "carFuel": {
+      "title": "Paghahatid ng Gasolina para sa Sasakyan",
+      "description": "Naghahatid kami ng gasolina sa iyong sasakyan kahit saan, kahit kailan. Tukuyin lamang ang iyong lokasyon at kami ay pupunta sa iyo."
+    },
+    "homeFuel": {
+      "title": "Paghahatid ng Gasolina sa Bahay",
+      "description": "Serbisyo sa paghahatid ng gasolina sa bahay para sa mga generator at gamit sa bahay sa dami na angkop sa iyong pangangailangan."
+    },
+    "businessFuel": {
+      "title": "Paghahatid ng Gasolina para sa Negosyo",
+      "description": "Kumpletong solusyon sa gasolina para sa mga kumpanya at pabrika sa mapagkumpitensyang presyo na may maaasahang serbisyo."
+    },
+    "emergency": {
+      "title": "Mga Serbisyong Pang-emergency",
+      "description": "24/7 na serbisyong pang-emergency para sa mga sasakyang naubusan ng gasolina sa kalsada."
+    },
+    "app": {
+      "title": "Smart App",
+      "description": "Madaling gamitin na app na nagbibigay-daan sa iyong mag-order ng gasolina, subaybayan ang iyong mga order, at pamahalaan ang iyong mga pagbabayad."
+    },
+    "fastDelivery": {
+      "title": "Mabilis na Paghahatid",
+      "description": "Ginagarantiya namin ang paghahatid ng gasolina sa iyo sa lalong madaling panahon na may sanay na koponan at advanced na kagamitan."
+    }
+  },
+  "appDemo": {
+    "title": "Ang Aming Premium App",
+    "description": "I-download ang FuelExpress app para sa mas madali at mabilis na karanasan sa pag-order ng gasolina. Subaybayan ang iyong mga order sa real time, mag-order nang madali, at magbayad nang ligtas sa pamamagitan ng app.",
+    "downloadOn": "I-download sa",
+    "googlePlay": "Google Play",
+    "appStore": "App Store",
+    "features": "Mga Tampok ng App:",
+    "feature1": "Mabilis na order sa mas mababa sa isang minuto",
+    "feature2": "Live na pagsubaybay sa lokasyon ng fuel truck",
+    "feature3": "Ligtas na pagbabayad sa pamamagitan ng app",
+    "feature4": "Eksklusibong mga alok para sa mga user"
+  },
+  "cta": {
+    "title": "Handa nang mag-order ng iyong gasolina?",
+    "description": "Sumali sa libu-libong mga customer na nagtitiwala sa amin para sa mabilis at ligtas na paghahatid ng gasolina.",
+    "startOrder": "Simulan ang Order Ngayon",
+    "contactUs": "Makipag-ugnayan sa Amin para sa Inquiry"
+  },
+  "footer": {
+    "about": "Nagbibigay kami ng makabagong at mabilis na mga solusyon sa gasolina upang matugunan ang iyong mga pangangailangan saan ka man naroroon. Kalidad, kaligtasan, at bilis sa paghahatid.",
+    "quickLinks": "Mabilis na Mga Link",
+    "home": "Home",
+    "services": "Mga Serbisyo",
+    "app": "App",
+    "pricing": "Presyo",
+    "aboutUs": "Tungkol sa Amin",
+    "ourServices": "Ang Aming Mga Serbisyo",
+    "carDelivery": "Paghahatid ng Gasolina para sa Sasakyan",
+    "homeDelivery": "Paghahatid ng Gasolina sa Bahay",
+    "businessDelivery": "Paghahatid ng Gasolina para sa Negosyo",
+    "emergencyServices": "Mga Serbisyong Pang-emergency",
+    "contactUs": "Makipag-ugnayan",
+    "address": "Address: Riyadh, Saudi Arabia",
+    "phone": "Telepono: 800 123 4567",
+    "email": "Email: info@fulexpress.com",
+    "hours": "Oras ng Trabaho: 24/7",
+    "copyright": "Lahat ng karapatan ay nakalaan."
+  },
+  "appScreen": {
+    "welcome": "Maligayang pagdating sa iyong fuel app",
+    "availableFuel": "Available na Gasolina:",
+    "gas95": "Gasolina 95",
+    "price": "Presyo:",
+    "priceValue": "2.35 SAR/litro",
+    "orderNow": "Mag-order Ngayon",
+    "newOrder": "Bagong Order",
+    "selectFuel": "Piliin ang uri at dami ng gasolina",
+    "fuelType": "Uri ng Gasolina",
+    "gasoline95": "Gasolina 95",
+    "gasoline91": "Gasolina 91",
+    "diesel": "Diesel",
+    "quantity": "Dami (Litro)",
+    "confirmOrder": "Kumpirmahin ang Order"
+  }
+}

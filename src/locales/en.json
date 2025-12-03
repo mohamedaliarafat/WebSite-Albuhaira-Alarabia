@@ -1,0 +1,99 @@
+{
+  "header": {
+    "logo": "Albuhaira Alarabia",
+    "home": "Home",
+    "services": "Services",
+    "app": "App",
+    "contact": "Contact",
+    "orderNow": "Order Now"
+  },
+  "hero": {
+    "title": "Your fuel delivered",
+    "titleHighlight": "wherever you are",
+    "description": "Order fuel for your car, home, or business with a click. Our expert team delivers fuel quickly and safely to any location.",
+    "orderFuel": "Order Fuel Now",
+    "ourServices": "Our Services"
+  },
+  "services": {
+    "title": "Our Complete Services",
+    "subtitle": "We provide a complete range of fuel services to meet all your needs",
+    "carFuel": {
+      "title": "Car Fuel Delivery",
+      "description": "We deliver fuel to your car anywhere, anytime. Just specify your location and we come to you."
+    },
+    "homeFuel": {
+      "title": "Home Fuel Delivery",
+      "description": "Home fuel delivery service for generators and household use in quantities that suit your needs."
+    },
+    "businessFuel": {
+      "title": "Business Fuel Delivery",
+      "description": "Complete fuel solutions for companies and factories at competitive prices with reliable service."
+    },
+    "emergency": {
+      "title": "Emergency Services",
+      "description": "24/7 emergency service for cars that run out of fuel on the road."
+    },
+    "app": {
+      "title": "Smart App",
+      "description": "Easy-to-use app that allows you to order fuel, track your orders, and manage your payments."
+    },
+    "fastDelivery": {
+      "title": "Fast Delivery",
+      "description": "We guarantee fuel delivery to you as quickly as possible with a trained team and advanced equipment."
+    }
+  },
+  "appDemo": {
+    "title": "Our Premium App",
+    "description": "Download the FuelExpress app for an easier and faster fuel ordering experience. Track your orders in real time, order easily, and pay securely through the app.",
+    "downloadOn": "Download on",
+    "googlePlay": "Google Play",
+    "appStore": "App Store",
+    "features": "App Features:",
+    "feature1": "Quick order in less than a minute",
+    "feature2": "Live tracking of fuel truck location",
+    "feature3": "Secure payment through the app",
+    "feature4": "Exclusive offers for users"
+  },
+  "cta": {
+    "title": "Ready to order your fuel?",
+    "description": "Join thousands of customers who trust us for fast and safe fuel delivery.",
+    "startOrder": "Start Order Now",
+    "contactUs": "Contact Us for Inquiry"
+  },
+  "footer": {
+    "about": "We provide innovative and fast fuel solutions to meet your needs wherever you are. Quality, safety, and speed in delivery.",
+    "quickLinks": "Quick Links",
+    "home": "Home",
+    "services": "Services",
+    "app": "App",
+    "pricing": "Pricing",
+    "aboutUs": "About Us",
+    "ourServices": "Our Services",
+    "carDelivery": "Car Fuel Delivery",
+    "homeDelivery": "Home Fuel Delivery",
+    "businessDelivery": "Business Fuel Delivery",
+    "emergencyServices": "Emergency Services",
+    "contactUs": "Contact Us",
+    "address": "Address: Riyadh, Saudi Arabia",
+    "phone": "Phone: 800 123 4567",
+    "email": "Email: info@fulexpress.com",
+    "hours": "Working Hours: 24/7",
+    "copyright": "All rights reserved."
+  },
+  "appScreen": {
+    "welcome": "Welcome to your fuel app",
+    "availableFuel": "Available Fuel:",
+    "gas95": "Gasoline 95",
+    "price": "Price:",
+    "priceValue": "2.35 SAR/liter",
+    "orderNow": "Order Now",
+    "newOrder": "New Order",
+    "selectFuel": "Select fuel type and quantity",
+    "fuelType": "Fuel Type",
+    "gasoline95": "Gasoline 95",
+    "gasoline91": "Gasoline 91",
+    "diesel": "Diesel",
+    "quantity": "Quantity (Liters)",
+    "confirmOrder": "Confirm Order"
+  }
+}
