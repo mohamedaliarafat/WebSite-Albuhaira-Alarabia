@@ -204,7 +204,7 @@ const CompanyManagement = () => {
       },
       email: "mohamedaliarafat21@gmail.com",
       phone: "0510480939",
-      experience: "14",
+      experience: "5",
       image: "https://e.top4top.io/p_36278t2jk1.jpeg",
       departmentKey: "executive"
     },
