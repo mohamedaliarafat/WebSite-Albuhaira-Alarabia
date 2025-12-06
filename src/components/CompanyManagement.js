@@ -125,27 +125,27 @@ const CompanyManagement = () => {
       email: "hamada@company.com",
       phone: "0537609128",
       experience: "10",
-      image: "https://h.top4top.io/p_3627s21yo1.png",
+      image: "https://i.top4top.io/p_36276lttd1.png",
       departmentKey: "AM"
     },
     {
       id: 3,
       name: {
-        ar: " ",
-        en: "Khalid Ahmed",
+        ar: "مراد الحجري",
+        en: "Morad Alhagry",
         bn: "খালিদ আহমেদ",
         hi: "खालिद अहमद"
       },
       position: {
-        ar: "مدير المبيعات",
-        en: "Sales Manager",
+        ar: "مسؤول تشفيل محطات",
+        en: "Stations operating officer",
         bn: "বিক্রয় ব্যবস্থাপক",
         hi: "बिक्री प्रबंधक"
       },
-      email: "khalid@company.com",
-      phone: "+966500123458",
+      email: "morad@company.com",
+      phone: "0500800351",
       experience: "12",
-      image: "",
+      image: "https://h.top4top.io/p_3627koeod1.jpg",
       departmentKey: "sales"
     },
     {
