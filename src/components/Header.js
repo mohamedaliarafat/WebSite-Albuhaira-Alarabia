@@ -1,5 +1,6 @@
 import React from 'react';
 import { motion } from 'framer-motion';
+import { Link } from 'react-router-dom';
 import LanguageSwitcher from './LanguageSwitcher';
 import { useLanguage } from '../contexts/LanguageContext';
 import ThemeSwitcher from './ThemeSwitcher';
@@ -73,16 +74,19 @@ const Header = () => {
             <LanguageSwitcher />
             
             {/* Order Button */}
-            <motion.a 
-              href="#order" 
-              className="cta-button"
-              initial={{ opacity: 0, scale: 0.9 }}
-              animate={{ opacity: 1, scale: 1 }}
-              transition={{ duration: 0.5, delay: 0.5 }}
-              whileHover={{ scale: 1.05 }}
-            >
-              {t('header.orderNow')}
-            </motion.a>
+    <motion.div
+          initial={{ opacity: 0, scale: 0.9 }}
+          animate={{ opacity: 1, scale: 1 }}
+          transition={{ duration: 0.5, delay: 0.5 }}
+          whileHover={{ scale: 1.05 }}
+        >
+          <Link 
+            to="/company-management" 
+            className="cta-button"
+          >
+            <i className="fas fa-users"></i> فريق الإدارة
+          </Link>
+        </motion.div>
           </div>
         </div>
       </div>
