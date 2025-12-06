@@ -191,21 +191,41 @@ const CompanyManagement = () => {
     {
       id: 6,
       name: {
-        ar: "",
-        en: "Nora Saeed",
+        ar: "محمد علي عرفات",
+        en: "Mohamed Ali Arafat",
         bn: "নোরা সাইদ",
         hi: "नोरा सईद"
       },
       position: {
-        ar: "نائب المدير التنفيذي",
-        en: "Deputy CEO",
+        ar: "إدارة تكنولوجيا المعلومات",
+        en: "Information technology management",
         bn: "ডেপুটি সিইও",
         hi: "उप मुख्य कार्यकारी अधिकारी"
       },
-      email: "nora@company.com",
-      phone: "+966500123461",
+      email: "mohamedaliarafat21@gmail.com",
+      phone: "0510480939",
       experience: "14",
-      image: "",
+      image: "https://e.top4top.io/p_36278t2jk1.jpeg",
+      departmentKey: "executive"
+    },
+    {
+      id: 6,
+      name: {
+        ar: "ضياء شحره",
+        en: "Diaa Shahra",
+        bn: "নোরা সাইদ",
+        hi: "नोरा सईद"
+      },
+      position: {
+        ar: "مسؤوول الصيانة",
+        en: "Maintenance Officer",
+        bn: "ডেপুটি সিইও",
+        hi: "उप मुख्य कार्यकारी अधिकारी"
+      },
+      email: "dheyaaa345@gmail.com",
+      phone: "0533790397",
+      experience: "14",
+      image: "https://h.top4top.io/p_3627dhmu31.jpeg",
       departmentKey: "executive"
     }
   ];
