@@ -105,7 +105,7 @@ const CompanyManagement = () => {
       email: "nasser@albuhairaalarabia.com",
       phone: "0558764446",
       experience: "15",
-      image: "https://b.top4top.io/p_3627pnncl1.png",
+      image: "https://b.top4top.io/p_3627gwvv71.png",
       departmentKey: "COTB"
     },
     {
