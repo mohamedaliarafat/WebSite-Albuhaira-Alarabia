@@ -419,7 +419,7 @@ const CompanyManagement = () => {
       </div>
 
       <footer className="company-footer">
-        <p>© 2024 Portfolio - Company Management System</p>
+        <p>© 2025 Albuhaira Alarabia Co.</p>
         <div className="footer-links">
           <a href="#"><i className="fab fa-linkedin"></i></a>
           <a href="#"><i className="fab fa-twitter"></i></a>
