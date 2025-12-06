@@ -157,8 +157,8 @@ const CompanyManagement = () => {
         hi: "फातिमा हसन"
       },
       position: {
-        ar: "محاسب عام",
-        en: "General accountant",
+        ar: "رئيس الحسابات",
+        en: "Head of Accounts",
         bn: "বিপণন পরিচালক",
         hi: "मार्केटिंग निदेशक"
       },
