@@ -117,8 +117,8 @@ const CompanyManagement = () => {
         hi: "सारा अली"
       },
       position: {
-        ar: "مدير الحسابات",
-        en: "Account Manager",
+        ar: "المديري المالي والإداري",
+        en: "Financial and Administrative Manager",
         bn: "মানব সম্পদ পরিচালক",
         hi: "मानव संसाधन निदेशक"
       },
@@ -137,7 +137,7 @@ const CompanyManagement = () => {
         hi: "खालिद अहमद"
       },
       position: {
-        ar: "مسؤول تشفيل محطات",
+        ar: "مدير التشغيل والإمدادات",
         en: "Stations operating officer",
         bn: "বিক্রয় ব্যবস্থাপক",
         hi: "बिक्री प्रबंधक"
@@ -163,7 +163,7 @@ const CompanyManagement = () => {
         hi: "मार्केटिंग निदेशक"
       },
       email: "M=mohamed@company.com",
-      phone: "059553944",
+      phone: "0509553944",
       experience: "8",
       image: "https://e.top4top.io/p_362720cnm1.png",
       departmentKey: "marketing"
