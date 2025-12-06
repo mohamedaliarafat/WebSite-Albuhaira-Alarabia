@@ -185,7 +185,7 @@ const CompanyManagement = () => {
       email: "kamilsiddig212@gmail.com",
       phone: "0552127073",
       experience: "11",
-      image: "https://j.top4top.io/p_3627ptopf1.png",
+      image: "https://g.top4top.io/p_36271varv1.png",
       departmentKey: "it"
     },
     {
