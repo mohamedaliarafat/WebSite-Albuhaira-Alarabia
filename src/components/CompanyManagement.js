@@ -403,17 +403,17 @@ const CompanyManagement = () => {
                 </div>
               </div>
               
-              <div className="card-footer">
-                <button className="profile-btn">
-                  <i className="fas fa-user-circle"></i>
-                  {t.viewProfile}
-                </button>
-                <button className="contact-btn">
-                  <i className="fas fa-comment"></i>
-                  {t.contact}
-                </button>
-              </div>
-            </div>
+            //   <div className="card-footer">
+            //     <button className="profile-btn">
+            //       <i className="fas fa-user-circle"></i>
+            //       {t.viewProfile}
+            //     </button>
+            //     <button className="contact-btn">
+            //       <i className="fas fa-comment"></i>
+            //       {t.contact}
+            //     </button>
+            //   </div>
+            // </div>
           ))}
         </div>
       </div>
