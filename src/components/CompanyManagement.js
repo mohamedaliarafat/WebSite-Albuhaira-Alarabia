@@ -238,7 +238,7 @@ const CompanyManagement = () => {
       <span className="logo-text">{t.title}</span>
     </div>
      <img 
-        src="https://c.top4top.io/p_3624gdf351.png" 
+        src="https://d.top4top.io/p_36276guat1.png" 
         alt="Company Logo" 
         className="logo-image"
         width="100"
