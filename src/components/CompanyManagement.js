@@ -85,14 +85,14 @@ const CompanyManagement = () => {
     {
       id: 1,
       name: {
-        ar: " ",
-        en: "Ahmed Mohamed",
+        ar: "ناصر خالد المطيري",
+        en: "Nasser Khaled ",
         bn: "আহমেদ মোহাম্মদ",
         hi: "अहमद मोहम्मद"
       },
       position: {
-        ar: "المدير التنفيذي",
-        en: "CEO",
+        ar: "رئيس مجلس الادارة",
+        en: "Chairman of the Board",
         bn: "প্রধান নির্বাহী কর্মকর্তা",
         hi: "मुख्य कार्यकारी अधिकारी"
       },
@@ -102,31 +102,31 @@ const CompanyManagement = () => {
         bn: "কার্যনির্বাহী ব্যবস্থাপনা",
         hi: "कार्यकारी प्रबंधन"
       },
-      email: "ahmed@company.com",
-      phone: "+966500123456",
+      email: "nasser@albuhairaalarabia.com",
+      phone: "0558764446",
       experience: "15",
-      image: "",
-      departmentKey: "executive"
+      image: "https://b.top4top.io/p_3627pnncl1.png",
+      departmentKey: "COTB"
     },
     {
       id: 2,
       name: {
-        ar: " ",
-        en: "Sarah Ali",
+        ar: "حماده الرشيدي",
+        en: "Hamada Alrashidy",
         bn: "সারা আলী",
         hi: "सारा अली"
       },
       position: {
-        ar: "مديرة الموارد البشرية",
-        en: "HR Director",
+        ar: "مدير الحسابات",
+        en: "Account Manager",
         bn: "মানব সম্পদ পরিচালক",
         hi: "मानव संसाधन निदेशक"
       },
-      email: "sarah@company.com",
-      phone: "+966500123457",
+      email: "hamada@company.com",
+      phone: "0537609128",
       experience: "10",
-      image: "",
-      departmentKey: "hr"
+      image: "https://h.top4top.io/p_3627s21yo1.png",
+      departmentKey: "AM"
     },
     {
       id: 3,
@@ -151,41 +151,41 @@ const CompanyManagement = () => {
     {
       id: 4,
       name: {
-        ar: " ",
-        en: "Fatima Hassan",
+        ar: "محمد نصر",
+        en: "Mohamed Nasr",
         bn: "ফাতিমা হাসান",
         hi: "फातिमा हसन"
       },
       position: {
-        ar: "مديرة التسويق",
-        en: "Marketing Director",
+        ar: "محاسب عام",
+        en: "General accountant",
         bn: "বিপণন পরিচালক",
         hi: "मार्केटिंग निदेशक"
       },
-      email: "fatima@company.com",
-      phone: "+966500123459",
+      email: "M=mohamed@company.com",
+      phone: "059553944",
       experience: "8",
-      image: "",
+      image: "https://e.top4top.io/p_362720cnm1.png",
       departmentKey: "marketing"
     },
     {
       id: 5,
       name: {
-        ar: " ",
-        en: "Mohamed Khalid",
+        ar: "كامل صديق",
+        en: "Kamil Siddig",
         bn: "মোহাম্মদ খালিদ",
         hi: "मोहम्मद खालिद"
       },
       position: {
-        ar: "مدير تقنية المعلومات",
-        en: "IT Manager",
+        ar: "محاسب عام",
+        en: "General Accountant",
         bn: "আইটি ব্যবস্থাপক",
         hi: "आईटी प्रबंधक"
       },
-      email: "mohamed@company.com",
-      phone: "+966500123460",
+      email: "kamilsiddig212@gmail.com",
+      phone: "0552127073",
       experience: "11",
-      image: "",
+      image: "https://k.top4top.io/p_3627p4lm31.jpeg",
       departmentKey: "it"
     },
     {
