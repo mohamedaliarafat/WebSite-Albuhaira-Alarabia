@@ -389,7 +389,7 @@ const AppDemo = () => {
               
               <div className="download-buttons">
                 <motion.a 
-                  href="#android-download" 
+                  href="https://play.google.com/store/apps/details?id=albuhaira.a1999.com&pcampaignid=web_share" 
                   className="download-btn android-download"
                   whileHover={{ scale: 1.05 }}
                   whileTap={{ scale: 0.95 }}
